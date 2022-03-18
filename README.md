@@ -1,4 +1,7 @@
 
-# Haikus for Codespaces
+# Exploratory Data Analysis: Understanding CargoLedger Data Sets
 
-This is a quick node project template for demoing Codespaces. It is based off of the [Azure node sample](https://github.com/Azure-Samples/nodejs-docs-hello-world). It's great!!!
+Above you will find 3 files relating to the EDA, detailed descriptions are below: 
+File 1: EDA.ipynb Python file with data analysis and feature listings
+File 2: TJPalmer Testdata; all files provided by Sponsor Cargoledger
+File 3: Cargoledgerbosdallen; consolidated csv files used for EDA.ipynb 
